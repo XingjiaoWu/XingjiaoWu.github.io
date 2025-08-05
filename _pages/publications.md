@@ -12,19 +12,19 @@ redirect_from:
 
 
 --------------------------------------------------------2025-----------------------------------------------------------------------------------------
+- Z. Zhang,__X. Wu$^*$__,J. Xu,T. Ma,T. Yao,W. Wu,L. He. Temporal-Conditioned Symbolic Alignment for Controllable Text-to-Music Generation, ACM Multimedia, 2025.（通讯作者，CCF A）
 
-- T. Huai, J. Zhang,__X. Wu$^*$__, J. Jin, L. He. Efficiency is the rule: Domain adaptive semantic segmentation with minimal annotations[J]. Expert Systems with Applications, 2025, 274: 126892.（通讯作者，中科院一区，IF=7.5）
+- J. Xu, __X. Wu$^*$__, Z. Zhang, S. Yang, T. Ma, D. Dong , L. He. MARS: Multimodal-Assisted Refined Semantic Alignment  , Information Processing & Management, 2025.（通讯作者，中科院一区，IF=7.4）
+
+- T. Huai, J. Zhang, __X. Wu$^*$__, J. Jin, L. He. Efficiency is the rule: Domain adaptive semantic segmentation with minimal annotations[J]. Expert Systems with Applications, 2025, 274: 126892.（通讯作者，中科院一区，IF=7.5）
 
 - Z. Zhou, X. Du, Y. Zheng, X. Wu, C. Jin, An Exemplar-based Framework for Chinese Text Recognition, AAAI, 2025 (CCF A类会议)
 
-- Z. Xie, C. Han, J. Shi, W. Cui, X. Zhao, X. Wu, J. Zhao. RMoA: Optimizing Mixture-of-Agents through Diversity Maximization and Residual Compensation，ACL，2025(CCF A类会议)
-
-- J. Shi, J. Zhao, X. Wu, R. Xu, Y. Jiang, L. He. Mitigating reasoning hallucination through Multi-agent Collaborative Filtering[J]. Expert Systems with Applications, 2025, 263: 125723.（中科院一区，IF=7.5）
+- J. Shi, J. Zhao,X. Wu,R. Xu,Y. Jiang,L. He. Mitigating reasoning hallucination through Multi-agent Collaborative Filtering[J]. Expert Systems with Applications, 2025, 263: 125723.（中科院一区，IF=7.5）
 
 - X. Du，Z. Zhou，Y. Wang，Y. Zheng，X. Wu，P. Gong，C. Jin. Unleashing the Semantic Adaptability of Controlled Diffusion Model for Image Colorization, IJCAI, 2025(CCF A类会议)
 
-- T. Huai, J. Zhou, X. Wu, Q. Chen, Q. Bai, Z. zhou, L. He. CL-MoE: Enhancing Multimodal Large Language Model with Dual Momentum Mixture-of-Experts for Continual Visual Question Answering, CVPR, 2025(CCF A类会议)
-
+- T. Huai,J. Zhou,X. Wu,Q. Chen,Q. Bai,Z. zhou,L. He. CL-MoE: Enhancing Multimodal Large Language Model with Dual Momentum Mixture-of-Experts for Continual Visual Question Answering, CVPR, 2025(CCF A类会议)
 --------------------------------------------------------2024-----------------------------------------------------------------------------------------
 
 - __X. Wu__, L. Xiao, X. Du, Y. Zheng, X. Li, T. Ma, C. Jin, L. He,Cross-domain document layout analysis using document style guide, Expert Systems with Applications，2024（中科院一区，IF=7.5）

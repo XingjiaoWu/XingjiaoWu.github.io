@@ -13,18 +13,15 @@ redirect_from:
 
 --------------------------------------------------------2025-----------------------------------------------------------------------------------------
 - Z. Zhang,__X. Wu$^*$__,J. Xu,T. Ma,T. Yao,W. Wu,L. He. Temporal-Conditioned Symbolic Alignment for Controllable Text-to-Music Generation, ACM Multimedia, 2025.（通讯作者，CCF A）
-
 - J. Xu, __X. Wu$^*$__, Z. Zhang, S. Yang, T. Ma, D. Dong , L. He. MARS: Multimodal-Assisted Refined Semantic Alignment  , Information Processing & Management, 2025.（通讯作者，中科院一区，IF=7.4）
-
-- T. Huai, J. Zhang, __X. Wu$^*$__, J. Jin, L. He. Efficiency is the rule: Domain adaptive semantic segmentation with minimal annotations[J]. Expert Systems with Applications, 2025, 274: 126892.（通讯作者，中科院一区，IF=7.5）
-
+- T. Huai, J. Zhang, __X. Wu$^*$__, J. Jin, L. He. Efficiency is the rule: Domain adaptive semantic segmentation with minimal annotations. Expert Systems with Applications, 2025, 274: 126892.（通讯作者，中科院一区，IF=7.5）
+- Z. Liu, J. Xu,__X. Wu$^*$__, J. Yang, L. He, Multi-Type Preference Learning: Empowering Preference-Based Reinforcement Learning with Equal Preferences, ICRA, 2025(通讯作者，CCF B类会议，机器人领域顶级会议)
 - Z. Zhou, X. Du, Y. Zheng, X. Wu, C. Jin, An Exemplar-based Framework for Chinese Text Recognition, AAAI, 2025 (CCF A类会议)
-
 - J. Shi, J. Zhao,X. Wu,R. Xu,Y. Jiang,L. He. Mitigating reasoning hallucination through Multi-agent Collaborative Filtering[J]. Expert Systems with Applications, 2025, 263: 125723.（中科院一区，IF=7.5）
-
+- J. Shi, J. Zhao, Y. Yang, X. Wu, J. Li, L. He. Lark: Low-Rank updates after knowledge localization for Few-shot Class-Incremental Learning, ICCV, 2025(CCF A类会议)
 - X. Du，Z. Zhou，Y. Wang，Y. Zheng，X. Wu，P. Gong，C. Jin. Unleashing the Semantic Adaptability of Controlled Diffusion Model for Image Colorization, IJCAI, 2025(CCF A类会议)
-
 - T. Huai,J. Zhou,X. Wu,Q. Chen,Q. Bai,Z. zhou,L. He. CL-MoE: Enhancing Multimodal Large Language Model with Dual Momentum Mixture-of-Experts for Continual Visual Question Answering, CVPR, 2025(CCF A类会议)
+- Z Xie, C Han, J Shi, W Cui, X Zhao, X Wu, J Zhao. RMoA: Optimizing Mixture-of-Agents through Diversity Maximization and Residual Compensation, ACL (Findings), 2025(CCF A类会议 Findings)
 --------------------------------------------------------2024-----------------------------------------------------------------------------------------
 
 - __X. Wu__, L. Xiao, X. Du, Y. Zheng, X. Li, T. Ma, C. Jin, L. He,Cross-domain document layout analysis using document style guide, Expert Systems with Applications，2024（中科院一区，IF=7.5）

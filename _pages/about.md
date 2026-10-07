@@ -34,7 +34,10 @@ h2.hh{font-size:1.2em;font-weight:700;color:#0e5148;border-bottom:2px solid #0e5
 </style>
 
 <div class="ven">
-<p>吴兴蛟，博士，<b>华东师范大学药学院副教授</b>、博士生导师、硕士生导师（药学、制药工程、应用心理学），曾获上海市超级博士后。主要研究方向为 <b>AI4Science、数字药物、人在回路计算</b>。在重要国际会议/期刊发表学术论文 <b>60 余篇</b>，其中 ESI 全球热点论文 1 篇（近 10 年被引居相应学科全球前 0.1%）、ESI 高被引论文 3 篇（全球前 1%）；FGCS 论文获 <b>Editor's Choice Papers</b>（入选率约 0.5%），McGE'23 论文获 <b>Best Paper Award</b>。主持国家自然科学基金青年项目、上海市"科技创新行动计划"关键技术攻关项目等；研究工作获<b>上海市技术发明一等奖</b>、<b>上海市科技进步二等奖</b>各一项。</p>
+<p>吴兴蛟，博士，<b>华东师范大学药学院副教授</b>、博士生导师、硕士生导师（药学、制药工程、应用心理学），曾获上海市超级博士后。主要研究方向为 <b>AI4Science、数字药物、人在回路计算</b>。在重要国际会议/期刊发表学术论文 <b>60 余篇</b>，其中 ESI 全球热点论文 1 篇（近 10 年被引居相应学科全球前 0.1%）、ESI 高被引论文 3 篇（全球前 1%）；FGCS 论文获 <b>Editor's Choice Papers</b>（入选率约 0.5%），McGE'23 论文获 <b>Best Paper Award</b>。主持国家自然科学基金青年项目、上海市"科技创新行动计划"关键技术攻关项目等；研究工作获<b>上海市技术发明一等奖</b>、<b>上海市科技进步二等奖</b>各一项。<p style="margin-top:.9em">
+<a href="https://scholar.google.com/citations?user=BhA6vd0AAAAJ" target="_blank" title="Google Scholar 引用数（每日自动更新）"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FXingjiaoWu%2FXingjiaoWu.github.io%2Fmaster%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=googlescholar&logoColor=white&color=0E5148&cacheSeconds=3600" alt="Google Scholar citations" style="height:20px;vertical-align:middle"></a>
+<span style="font-size:.75em;color:#6b7a77;margin-left:8px">引用数每日自动更新</span>
+</p>
 </div>
 
 <ul class="hstat">

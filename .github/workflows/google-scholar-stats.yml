@@ -1,0 +1,53 @@
+name: Google Scholar Stats
+
+on:
+  push:
+    branches: [master]
+    paths: ['.github/workflows/google-scholar-stats.yml']
+  workflow_dispatch:
+  schedule:
+    - cron: '30 21 * * *'  # 每天 UTC 21:30（北京时间 05:30）
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r google_scholar_crawler/requirements.txt
+
+      - name: Crawl Google Scholar (with retries)
+        env:
+          GOOGLE_SCHOLAR_ID: BhA6vd0AAAAJ
+        run: |
+          set +e
+          for i in 1 2 3; do
+            echo "Attempt $i..."
+            python google_scholar_crawler/main.py && exit 0
+            sleep 90
+          done
+          echo "All attempts failed; keeping previous stats."
+          exit 1
+
+      - name: Commit updated stats
+        run: |
+          mkdir -p google-scholar-stats
+          cp results/gs_data_shieldsio.json google-scholar-stats/
+          cp results/gs_data.json google-scholar-stats/ || true
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add google-scholar-stats
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update Google Scholar stats [skip ci]"
+            git push
+          fi

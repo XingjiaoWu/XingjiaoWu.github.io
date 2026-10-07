@@ -31,6 +31,16 @@ h2.hh{font-size:1.2em;font-weight:700;color:#0e5148;border-bottom:2px solid #0e5
 .epub i{color:#4a5754}
 .ebd{display:inline-block;background:#0e5148;color:#fff;border-radius:9px;padding:1px 8px;font-size:.7em;font-weight:600;margin-left:6px;vertical-align:1px}
 .ebd.c{background:#e9f1ef;color:#0e5148;border:1px solid #cfe0dc}
+.pc{border:1px solid #dfe8e6;border-radius:6px;background:#fff;padding:.75em 1em;margin:0 0 .55em 0}
+.pc .t{font-size:.9em;font-weight:700;color:#1f2a28;line-height:1.55}
+.pc .m{font-size:.78em;color:#6b7a77;margin-top:3px}
+.pbd{display:inline-block;border-radius:9px;padding:1px 8px;font-size:.7em;font-weight:600;margin:4px 4px 0 0}
+.p-run{background:#e9f1ef;color:#0e5148;border:1px solid #cfe0dc}
+.p-done{background:#f1f3f4;color:#5f6e6b;border:1px solid #e2e6e5}
+.p-nsfc{background:#0e5148;color:#fff}
+.p-sh{background:#fdf3e3;color:#b45309;border:1px solid #f0d9b5}
+.p-ind{background:#b45309;color:#fff}
+.p-uni{background:#eef3f2;color:#0e5148;border:1px solid #d8e4e1}
 </style>
 
 <div class="even">
@@ -81,6 +91,21 @@ h2.hh{font-size:1.2em;font-weight:700;color:#0e5148;border-bottom:2px solid #0e5
 </ul>
 </div>
 </div>
+
+<h2 class="hh">💰 Research Projects</h2>
+<h3 style="font-size:1em;color:#0e5148;margin:.2em 0 .5em 0">Ongoing (PI / co-PI)</h3>
+<div class="pc"><div class="t">Key Technologies of Digital Therapeutics for Depression</div><div class="m">PI · 2025–2028</div><span class="pbd p-nsfc">NSFC Young Scientists Fund</span><span class="pbd p-run">Ongoing</span></div>
+<div class="pc"><div class="t">Human-in-the-Loop Learning Methods for Embodied Intelligence</div><div class="m">PI · 2025–2027</div><span class="pbd p-sh">Shanghai STI Action Plan (Key Project)</span><span class="pbd p-run">Ongoing</span></div>
+<div class="pc"><div class="t">AI Emotion Evolution and Depression-like States: Neuroscience-inspired Exploration and Digital Therapeutics Innovation</div><div class="m">PI · 2025–2027</div><span class="pbd p-uni">ECNU "Three-Ten" Program (Original Exploration)</span><span class="pbd p-run">Ongoing</span></div>
+<div class="pc"><div class="t">Key Technologies of AI-based Chronic Disease Prediction</div><div class="m">co-PI · 2026–2027</div><span class="pbd p-sh">Shanghai Health Development Research Center</span><span class="pbd p-run">Ongoing</span></div>
+<div class="pc"><div class="t">"How AI Understands Our Emotions" Course Development</div><div class="m">PI · 2025–2027</div><span class="pbd p-uni">ECNU High-level General Education Course</span><span class="pbd p-run">Ongoing</span></div>
+<div class="pc"><div class="t">Innovative Applications of AI-empowered Cultural and Artistic Creation</div><div class="m">co-PI · 2024–2025</div><span class="pbd p-sh">Shanghai Cultural & Creative Industry Fund</span><span class="pbd p-run">Ongoing</span></div>
+<h3 style="font-size:1em;color:#0e5148;margin:1em 0 .5em 0">Completed</h3>
+<div class="pc"><div class="t">Key Technologies of Human-in-the-loop Complex Document Layout Analysis</div><div class="m">PI · 2023–2024</div><span class="pbd p-uni">Shanghai Key Lab of Multi-dimensional Info. Processing</span><span class="pbd p-done">Completed</span></div>
+<div class="pc"><div class="t">Unified Modeling of Document Visual Features</div><div class="m">Sub-project leader · 2022–2023 · topped the InfographicVQA benchmark (Nov 2023, 17% ahead of Google)</div><span class="pbd p-ind">Huawei Noah's Ark Lab</span><span class="pbd p-done">Completed</span></div>
+<div class="pc"><div class="t">Model Lightweighting and Updating under Human-machine Hybrid Intelligence</div><div class="m">PI · 2020–2022</div><span class="pbd p-uni">ECNU Outstanding Ph.D. Innovation Program</span><span class="pbd p-done">Completed</span></div>
+<div class="pc"><div class="t">Key Technologies of TCM Herb Recognition with Human-machine Hybrid Intelligence</div><div class="m">Key participant · 2021–2022</div><span class="pbd p-uni">Yunnan Provincial Education Department</span><span class="pbd p-done">Completed</span></div>
+<div class="pc"><div class="t">Fuzzy Defect Classification with Human-machine Hybrid Intelligence</div><div class="m">Key participant · 2020–2022</div><span class="pbd p-sh">Shanghai STC Innovation Action Plan</span><span class="pbd p-done">Completed</span></div>
 
 <h2 class="hh">📝 Selected Publications</h2>
 <ul class="epub">

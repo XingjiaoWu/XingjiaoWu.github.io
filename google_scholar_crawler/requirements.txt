@@ -1,2 +1,4 @@
 scholarly>=1.7.0
+bibtexparser<2
 jsonpickle
+httpx

@@ -52,12 +52,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors">Z. Zhang, <b>X. Wu</b><sup>*</sup>, J. Xu, T. Ma, T. Yao, W. Wu, L. He</p>
 <p class="pub-venue"><i>ACM Multimedia (MM)</i>, 2025<span class="pub-badges"><span class="bd bd-id">通讯作者</span><span class="bd bd-top">CCF-A</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@inproceedings{zhang2025temporal,
+<pre>{% raw %}@inproceedings{zhang2025temporal,
   author    = {Zhang, Zhiwei and Wu, Xingjiao and Xu, Jun and Ma, Ting and Yao, Taoyan and Wu, Wei and He, Liang},
   title     = {Temporal-Conditioned Symbolic Alignment for Controllable Text-to-Music Generation},
   booktitle = {Proceedings of the 33rd ACM International Conference on Multimedia},
   year      = {2025}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 <li class="pub-entry">
@@ -65,12 +65,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors">J. Xu, <b>X. Wu</b><sup>*</sup>, Z. Zhang, S. Yang, T. Ma, D. Dong, L. He</p>
 <p class="pub-venue"><i>Information Processing &amp; Management</i>, 2025<span class="pub-badges"><span class="bd bd-id">通讯作者</span><span class="bd bd-top">中科院一区</span><span class="bd bd-if">IF 7.4</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@article{xu2025mars,
+<pre>{% raw %}@article{xu2025mars,
   author  = {Xu, Jun and Wu, Xingjiao and Zhang, Zhiwei and Yang, Shuai and Ma, Ting and Dong, Deping and He, Liang},
   title   = {{MARS}: Multimodal-Assisted Refined Semantic Alignment},
   journal = {Information Processing \& Management},
   year    = {2025}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 <li class="pub-entry">
@@ -78,14 +78,14 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors">T. Huai, J. Zhang, <b>X. Wu</b><sup>*</sup>, J. Jin, L. He</p>
 <p class="pub-venue"><i>Expert Systems with Applications</i>, 2025, 274: 126892<span class="pub-badges"><span class="bd bd-id">通讯作者</span><span class="bd bd-top">中科院一区</span><span class="bd bd-if">IF 7.5</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@article{huai2025efficiency,
+<pre>{% raw %}@article{huai2025efficiency,
   author  = {Huai, Tao and Zhang, Jing and Wu, Xingjiao and Jin, Jun and He, Liang},
   title   = {Efficiency is the rule: Domain adaptive semantic segmentation with minimal annotations},
   journal = {Expert Systems with Applications},
   volume  = {274},
   pages   = {126892},
   year    = {2025}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 <li class="pub-entry">
@@ -93,12 +93,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors">Z. Liu, J. Xu, <b>X. Wu</b><sup>*</sup>, J. Yang, L. He</p>
 <p class="pub-venue"><i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2025<span class="pub-badges"><span class="bd bd-id">通讯作者</span><span class="bd bd-mid">CCF-B · 机器人顶级会议</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@inproceedings{liu2025multitype,
+<pre>{% raw %}@inproceedings{liu2025multitype,
   author    = {Liu, Zhen and Xu, Jun and Wu, Xingjiao and Yang, Jie and He, Liang},
   title     = {Multi-Type Preference Learning: Empowering Preference-Based Reinforcement Learning with Equal Preferences},
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},
   year      = {2025}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 <li class="pub-entry">
@@ -106,12 +106,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors">Z. Zhou, X. Du, Y. Zheng, <b>X. Wu</b>, C. Jin</p>
 <p class="pub-venue"><i>AAAI Conference on Artificial Intelligence</i>, 2025<span class="pub-badges"><span class="bd bd-top">CCF-A</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@inproceedings{zhou2025exemplar,
+<pre>{% raw %}@inproceedings{zhou2025exemplar,
   author    = {Zhou, Zhigang and Du, Xiao and Zheng, Yinqiang and Wu, Xingjiao and Jin, Cheng},
   title     = {An Exemplar-based Framework for Chinese Text Recognition},
   booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
   year      = {2025}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 <li class="pub-entry">
@@ -119,14 +119,14 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors">J. Shi, J. Zhao, <b>X. Wu</b>, R. Xu, Y. Jiang, L. He</p>
 <p class="pub-venue"><i>Expert Systems with Applications</i>, 2025, 263: 125723<span class="pub-badges"><span class="bd bd-top">中科院一区</span><span class="bd bd-if">IF 7.5</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@article{shi2025mitigating,
+<pre>{% raw %}@article{shi2025mitigating,
   author  = {Shi, Jiahao and Zhao, Jun and Wu, Xingjiao and Xu, Rui and Jiang, Yifei and He, Liang},
   title   = {Mitigating reasoning hallucination through Multi-agent Collaborative Filtering},
   journal = {Expert Systems with Applications},
   volume  = {263},
   pages   = {125723},
   year    = {2025}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 <li class="pub-entry">
@@ -134,12 +134,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors">J. Shi, J. Zhao, Y. Yang, <b>X. Wu</b>, J. Li, L. He</p>
 <p class="pub-venue"><i>IEEE/CVF International Conference on Computer Vision (ICCV)</i>, 2025<span class="pub-badges"><span class="bd bd-top">CCF-A</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@inproceedings{shi2025lark,
+<pre>{% raw %}@inproceedings{shi2025lark,
   author    = {Shi, Jiahao and Zhao, Jun and Yang, Yang and Wu, Xingjiao and Li, Jing and He, Liang},
   title     = {Lark: Low-Rank updates after knowledge localization for Few-shot Class-Incremental Learning},
   booktitle = {IEEE/CVF International Conference on Computer Vision (ICCV)},
   year      = {2025}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 <li class="pub-entry">
@@ -147,12 +147,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors">X. Du, Z. Zhou, Y. Wang, Y. Zheng, <b>X. Wu</b>, P. Gong, C. Jin</p>
 <p class="pub-venue"><i>International Joint Conference on Artificial Intelligence (IJCAI)</i>, 2025<span class="pub-badges"><span class="bd bd-top">CCF-A</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@inproceedings{du2025unleashing,
+<pre>{% raw %}@inproceedings{du2025unleashing,
   author    = {Du, Xiao and Zhou, Zhigang and Wang, Yixuan and Zheng, Yinqiang and Wu, Xingjiao and Gong, Ping and Jin, Cheng},
   title     = {Unleashing the Semantic Adaptability of Controlled Diffusion Model for Image Colorization},
   booktitle = {International Joint Conference on Artificial Intelligence (IJCAI)},
   year      = {2025}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 <li class="pub-entry">
@@ -160,12 +160,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors">T. Huai, J. Zhou, <b>X. Wu</b>, Q. Chen, Q. Bai, Z. Zhou, L. He</p>
 <p class="pub-venue"><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2025<span class="pub-badges"><span class="bd bd-top">CCF-A</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@inproceedings{huai2025clmoe,
+<pre>{% raw %}@inproceedings{huai2025clmoe,
   author    = {Huai, Tao and Zhou, Jing and Wu, Xingjiao and Chen, Qian and Bai, Qi and Zhou, Zhigang and He, Liang},
   title     = {{CL-MoE}: Enhancing Multimodal Large Language Model with Dual Momentum Mixture-of-Experts for Continual Visual Question Answering},
   booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year      = {2025}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 <li class="pub-entry">
@@ -173,12 +173,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors">Z. Xie, C. Han, J. Shi, W. Cui, X. Zhao, <b>X. Wu</b>, J. Zhao</p>
 <p class="pub-venue"><i>Annual Meeting of the Association for Computational Linguistics (ACL, Findings)</i>, 2025<span class="pub-badges"><span class="bd bd-top">CCF-A · Findings</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@inproceedings{xie2025rmoa,
+<pre>{% raw %}@inproceedings{xie2025rmoa,
   author    = {Xie, Zhuo and Han, Chen and Shi, Jiahao and Cui, Wei and Zhao, Xin and Wu, Xingjiao and Zhao, Jun},
   title     = {{RMoA}: Optimizing Mixture-of-Agents through Diversity Maximization and Residual Compensation},
   booktitle = {Findings of the Association for Computational Linguistics: ACL},
   year      = {2025}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 </ol>
@@ -190,12 +190,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors"><b>X. Wu</b>, L. Xiao, X. Du, Y. Zheng, X. Li, T. Ma, C. Jin, L. He</p>
 <p class="pub-venue"><i>Expert Systems with Applications</i>, 2024<span class="pub-badges"><span class="bd bd-top">中科院一区</span><span class="bd bd-if">IF 7.5</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@article{wu2024crossdomain,
+<pre>{% raw %}@article{wu2024crossdomain,
   author  = {Wu, Xingjiao and Xiao, Lin and Du, Xiao and Zheng, Yinqiang and Li, Xiaotian and Ma, Ting and Jin, Cheng and He, Liang},
   title   = {Cross-domain document layout analysis using document style guide},
   journal = {Expert Systems with Applications},
   year    = {2024}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 <li class="pub-entry">
@@ -203,12 +203,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors">L. Xiao, <b>X. Wu</b><sup>*</sup>, J. Xu, W. Li, C. Jin, L. He</p>
 <p class="pub-venue"><i>Information Fusion</i>, 2024<span class="pub-badges"><span class="bd bd-id">通讯作者</span><span class="bd bd-top">中科院一区</span><span class="bd bd-if">IF 14.7</span><span class="bd bd-honor">ESI 高被引</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@article{xiao2024atlantis,
+<pre>{% raw %}@article{xiao2024atlantis,
   author  = {Xiao, Lin and Wu, Xingjiao and Xu, Jun and Li, Wei and Jin, Cheng and He, Liang},
   title   = {Atlantis: Aesthetic-oriented Multiple Granularities Fusion Network for Joint Multimodal Aspect-based Sentiment Analysis},
   journal = {Information Fusion},
   year    = {2024}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 <li class="pub-entry">
@@ -216,12 +216,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors">J. Liao, <b>X. Wu</b><sup>*</sup>, Y. Wu, J. Shu</p>
 <p class="pub-venue"><i>Knowledge-Based Systems</i>, 2024<span class="pub-badges"><span class="bd bd-id">通讯作者</span><span class="bd bd-top">中科院一区</span><span class="bd bd-if">IF 7.2</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@article{liao2024knndp,
+<pre>{% raw %}@article{liao2024knndp,
   author  = {Liao, Jian and Wu, Xingjiao and Wu, Yu and Shu, Jie},
   title   = {{K-NNDP}: K-means algorithm based on nearest neighbor density peak optimization and outlier removal},
   journal = {Knowledge-Based Systems},
   year    = {2024}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 <li class="pub-entry">
@@ -229,12 +229,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors">X. Du, Z. Zhou, <b>X. Wu</b><sup>*</sup>, Y. Wang, Z. Wang, Y. Zheng, C. Jin</p>
 <p class="pub-venue"><i>ACM Multimedia (MM)</i>, 2024<span class="pub-badges"><span class="bd bd-id">共同通讯</span><span class="bd bd-top">CCF-A</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@inproceedings{du2024multicolor,
+<pre>{% raw %}@inproceedings{du2024multicolor,
   author    = {Du, Xiao and Zhou, Zhigang and Wu, Xingjiao and Wang, Yixuan and Wang, Zhi and Zheng, Yinqiang and Jin, Cheng},
   title     = {MultiColor: Image Colorization by Learning from Multiple Color Spaces},
   booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia},
   year      = {2024}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 </ol>
@@ -246,12 +246,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors">Y. Wan, W. Li, <b>X. Wu</b><sup>*</sup>, J. Xu, J. Yang</p>
 <p class="pub-venue"><i>McGE'23（IEEE BigData Workshop）</i>, 2023<span class="pub-badges"><span class="bd bd-id">通讯作者</span><span class="bd bd-honor">🏆 Best Paper</span><span class="bd bd-mid">CCF-A Workshop</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@inproceedings{wan2023automatic,
+<pre>{% raw %}@inproceedings{wan2023automatic,
   author    = {Wan, Yu and Li, Wei and Wu, Xingjiao and Xu, Jun and Yang, Jie},
   title     = {Automatic Image Aesthetic Assessment for Human-designed Digital Images},
   booktitle = {McGE'23, IEEE BigData Workshop},
   year      = {2023}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 <li class="pub-entry">
@@ -259,12 +259,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors"><b>X. Wu</b>, T. Ma, X. Du, Z. Hu, J. Yang, L. He</p>
 <p class="pub-venue"><i>Information Processing &amp; Management</i>, 2023<span class="pub-badges"><span class="bd bd-top">中科院一区</span><span class="bd bd-if">IF 7.4</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@article{wu2023drfn,
+<pre>{% raw %}@article{wu2023drfn,
   author  = {Wu, Xingjiao and Ma, Ting and Du, Xiao and Hu, Zhen and Yang, Jie and He, Liang},
   title   = {{DRFN}: A unified framework for complex document layout analysis},
   journal = {Information Processing \& Management},
   year    = {2023}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 <li class="pub-entry">
@@ -272,12 +272,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors">L. Xiao, <b>X. Wu</b><sup>*</sup>, S. Yang, J. Xu, J. Zhou, L. He</p>
 <p class="pub-venue"><i>Information Processing &amp; Management</i>, 2023<span class="pub-badges"><span class="bd bd-id">通讯作者</span><span class="bd bd-top">中科院一区</span><span class="bd bd-if">IF 7.4</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@article{xiao2023crossmodal,
+<pre>{% raw %}@article{xiao2023crossmodal,
   author  = {Xiao, Lin and Wu, Xingjiao and Yang, Shuai and Xu, Jun and Zhou, Jun and He, Liang},
   title   = {Cross-modal Fine-grained Alignment and Fusion Network for Multimodal Aspect-based Sentiment Analysis},
   journal = {Information Processing \& Management},
   year    = {2023}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 <li class="pub-entry">
@@ -285,12 +285,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors">T. Ma, <b>X. Wu</b><sup>†</sup>, X. Du, Y. Wang, C. Jin</p>
 <p class="pub-venue"><i>IEEE International Conference on Multimedia and Expo (ICME)</i>, 2023<span class="pub-badges"><span class="bd bd-id">共同一作</span><span class="bd bd-mid">CCF-B</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@inproceedings{ma2023image,
+<pre>{% raw %}@inproceedings{ma2023image,
   author    = {Ma, Ting and Wu, Xingjiao and Du, Xiao and Wang, Yixuan and Jin, Cheng},
   title     = {Image Layer Modeling for Complex Document Layout Generation},
   booktitle = {IEEE International Conference on Multimedia and Expo (ICME)},
   year      = {2023}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 <li class="pub-entry">
@@ -298,12 +298,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors">J. Zhang, Z. Zhuang, L. Xiao, <b>X. Wu</b><sup>*</sup>, T. Ma, L. He</p>
 <p class="pub-venue"><i>IEEE International Conference on Multimedia and Expo (ICME)</i>, 2023<span class="pub-badges"><span class="bd bd-id">通讯作者</span><span class="bd bd-mid">CCF-B</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@inproceedings{zhang2023dualexpert,
+<pre>{% raw %}@inproceedings{zhang2023dualexpert,
   author    = {Zhang, Jing and Zhuang, Zhen and Xiao, Lin and Wu, Xingjiao and Ma, Ting and He, Liang},
   title     = {Dual-Expert Distillation Network for Few-Shot Segmentation},
   booktitle = {IEEE International Conference on Multimedia and Expo (ICME)},
   year      = {2023}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 <li class="pub-entry">
@@ -311,13 +311,13 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors">X. Li, T. Ma, Y. Hou, B. Shi, Y. Yang, Y. Liu, <b>X. Wu</b>, Q. Chen, Y. Li, Y. Qiao, L. He</p>
 <p class="pub-venue"><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2023: 17524-17534<span class="pub-badges"><span class="bd bd-top">CCF-A</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@inproceedings{li2023logonet,
+<pre>{% raw %}@inproceedings{li2023logonet,
   author    = {Li, Xiang and Ma, Ting and Hou, Yuhang and Shi, Bing and Yang, Yang and Liu, Yang and Wu, Xingjiao and Chen, Qian and Li, Yi and Qiao, Yu and He, Liang},
   title     = {Logonet: Towards accurate 3d object detection with local-to-global cross-modal fusion},
   booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   pages     = {17524--17534},
   year      = {2023}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 </ol>
@@ -329,12 +329,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors"><b>X. Wu</b>, L. Xiao, Y. Sun, J. Zhang, T. Ma, L. He</p>
 <p class="pub-venue"><i>Future Generation Computer Systems</i>, 2022<span class="pub-badges"><span class="bd bd-honor">🏅 Editor's Choice（入选率约 0.5%）</span><span class="bd bd-honor">ESI 热点 + 高被引</span><span class="bd bd-top">中科院一区</span><span class="bd bd-if">IF 6.2</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@article{wu2022survey,
+<pre>{% raw %}@article{wu2022survey,
   author  = {Wu, Xingjiao and Xiao, Lin and Sun, Yiqun and Zhang, Jun and Ma, Ting and He, Liang},
   title   = {A Survey of Human-in-the-loop for Machine Learning},
   journal = {Future Generation Computer Systems},
   year    = {2022}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 <li class="pub-entry">
@@ -342,12 +342,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors">L. Xiao, <b>X. Wu</b><sup>†</sup>, W. Wu, J. Yang, L. He</p>
 <p class="pub-venue"><i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>, 2022<span class="pub-badges"><span class="bd bd-id">共同一作</span><span class="bd bd-mid">CCF-B</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@inproceedings{xiao2022multichannel,
+<pre>{% raw %}@inproceedings{xiao2022multichannel,
   author    = {Xiao, Lin and Wu, Xingjiao and Wu, Wei and Yang, Jie and He, Liang},
   title     = {Multi-channel Attentive Graph Convolutional Network With Sentiment Fusion For Multimodal Sentiment Analysis},
   booktitle = {IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
   year      = {2022}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 </ol>
@@ -359,12 +359,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors"><b>X. Wu</b>, Y. Zheng, T. Ma, H. Ye, L. He</p>
 <p class="pub-venue"><i>Information Sciences</i>, 2021<span class="pub-badges"><span class="bd bd-top">中科院一区</span><span class="bd bd-if">IF 8.1（2022）</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@article{wu2021document,
+<pre>{% raw %}@article{wu2021document,
   author  = {Wu, Xingjiao and Zheng, Yinqiang and Ma, Ting and Ye, Hui and He, Liang},
   title   = {Document Image Layout Analysis via Explicit Edge Embedding Network},
   journal = {Information Sciences},
   year    = {2021}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 <li class="pub-entry">
@@ -372,12 +372,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors"><b>X. Wu</b>, Z. Hu, X. Du, J. Yang, L. He</p>
 <p class="pub-venue"><i>IEEE International Conference on Multimedia and Expo (ICME)</i>, 2021<span class="pub-badges"><span class="bd bd-mid">CCF-B · Oral</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@inproceedings{wu2021dynamic,
+<pre>{% raw %}@inproceedings{wu2021dynamic,
   author    = {Wu, Xingjiao and Hu, Zhen and Du, Xiao and Yang, Jie and He, Liang},
   title     = {Document Layout Analysis via Dynamic Residual Feature Fusion},
   booktitle = {IEEE International Conference on Multimedia and Expo (ICME)},
   year      = {2021}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 <li class="pub-entry">
@@ -385,12 +385,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors">J. He, <b>X. Wu</b><sup>†</sup>, W. Hu, J. Yang</p>
 <p class="pub-venue"><i>International Conference on Document Analysis and Recognition (ICDAR)</i>, 2021<span class="pub-badges"><span class="bd bd-id">共同一作</span><span class="bd bd-mid">CCF-C · 文档处理顶级会议</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@inproceedings{he2021lstmva,
+<pre>{% raw %}@inproceedings{he2021lstmva,
   author    = {He, Jun and Wu, Xingjiao and Hu, Wei and Yang, Jie},
   title     = {{LSTMVA}: vivid layout via {LSTM}-based Variational Autoencoder framework},
   booktitle = {International Conference on Document Analysis and Recognition (ICDAR)},
   year      = {2021}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 </ol>
@@ -402,12 +402,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors"><b>X. Wu</b>, B. Xu, Y. Zheng, H. Ye, J. Yang, L. He</p>
 <p class="pub-venue"><i>Neurocomputing</i>, 2020<span class="pub-badges"><span class="bd bd-mid">中科院二区</span><span class="bd bd-if">IF 5.5</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@article{wu2020fast,
+<pre>{% raw %}@article{wu2020fast,
   author  = {Wu, Xingjiao and Xu, Bo and Zheng, Yinqiang and Ye, Hui and Yang, Jie and He, Liang},
   title   = {Fast video crowd counting with a Temporal Aware Network},
   journal = {Neurocomputing},
   year    = {2020}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 <li class="pub-entry">
@@ -415,12 +415,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors"><b>X. Wu</b>, Y. Zheng, H. Ye, W. Hu, T. Ma, J. Yang, L. He</p>
 <p class="pub-venue"><i>Neurocomputing</i>, 2020<span class="pub-badges"><span class="bd bd-mid">中科院二区</span><span class="bd bd-if">IF 5.5</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@article{wu2020counting,
+<pre>{% raw %}@article{wu2020counting,
   author  = {Wu, Xingjiao and Zheng, Yinqiang and Ye, Hui and Hu, Wei and Ma, Ting and Yang, Jie and He, Liang},
   title   = {Counting Crowds with Varying Densities via Adaptive Scenario Discovery Framework},
   journal = {Neurocomputing},
   year    = {2020}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 <li class="pub-entry">
@@ -428,12 +428,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors"><b>X. Wu</b>, S. Kong, Y. Zheng, H. Ye, J. Yang, L. He</p>
 <p class="pub-venue"><i>IET Image Processing</i>, 2020<span class="pub-badges"><span class="bd bd-mid">中科院四区</span><span class="bd bd-if">IF 2.0</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@article{wu2020feature,
+<pre>{% raw %}@article{wu2020feature,
   author  = {Wu, Xingjiao and Kong, Shaokai and Zheng, Yinqiang and Ye, Hui and Yang, Jie and He, Liang},
   title   = {Feature channel enhancement for crowd counting},
   journal = {IET Image Processing},
   year    = {2020}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 <li class="pub-entry">
@@ -441,12 +441,12 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors"><b>X. Wu</b>, Y. Zheng, H. Ye, W. Hu, J. Yang, L. He</p>
 <p class="pub-venue"><i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>, 2019<span class="pub-badges"><span class="bd bd-mid">CCF-B</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@inproceedings{wu2019adaptive,
+<pre>{% raw %}@inproceedings{wu2019adaptive,
   author    = {Wu, Xingjiao and Zheng, Yinqiang and Ye, Hui and Hu, Wei and Yang, Jie and He, Liang},
   title     = {Adaptive Scenario Discovery for Crowd Counting},
   booktitle = {IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
   year      = {2019}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 <li class="pub-entry">
@@ -454,7 +454,7 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 <p class="pub-authors">吴俊斌, 吴晟, <b>吴兴蛟</b><sup>*</sup></p>
 <p class="pub-venue"><i>计算机工程与科学</i>, 2020, 42(11): 2080-2087<span class="pub-badges"><span class="bd bd-id">通讯作者</span><span class="bd bd-mid">CCF-C（中文）· 中文核心</span></span></p>
 <details class="pub-bib"><summary>BibTeX</summary>
-<pre>@article{wu2020tsp,
+<pre>{% raw %}@article{wu2020tsp,
   author  = {吴俊斌 and 吴晟 and 吴兴蛟},
   title   = {一种用于求解{TSP}问题的随机最佳插入烟花算法},
   journal = {计算机工程与科学},
@@ -462,7 +462,7 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
   number  = {11},
   pages   = {2080--2087},
   year    = {2020}
-}</pre>
+}{% endraw %}</pre>
 </details>
 </li>
 </ol>

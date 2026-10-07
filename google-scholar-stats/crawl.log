@@ -1,0 +1,13 @@
+light fetch: HTTP 403, 1103 bytes
+light attempt 1 failed: RuntimeError: citation cells not found (captcha or layout change?)
+scholarly attempt 1 failed: ModuleNotFoundError: No module named 'bibtexparser.bibdatabase'
+light fetch: HTTP 403, 1103 bytes
+light attempt 2 failed: RuntimeError: citation cells not found (captcha or layout change?)
+scholarly attempt 2 failed: ModuleNotFoundError: No module named 'bibtexparser.bibdatabase'
+light fetch: HTTP 403, 1103 bytes
+light attempt 3 failed: RuntimeError: citation cells not found (captcha or layout change?)
+scholarly attempt 3 failed: ModuleNotFoundError: No module named 'bibtexparser.bibdatabase'
+light fetch: HTTP 403, 1103 bytes
+light attempt 4 failed: RuntimeError: citation cells not found (captcha or layout change?)
+scholarly attempt 4 failed: ModuleNotFoundError: No module named 'bibtexparser.bibdatabase'
+all fetch attempts failed

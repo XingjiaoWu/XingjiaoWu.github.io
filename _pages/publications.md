@@ -37,13 +37,86 @@ details.pub-bib pre{background:#f4f8f7;border:1px solid #dfe8e6;border-radius:4p
 </style>
 
 <ul class="pub-stat">
-<li>30 篇成果</li>
-<li>CCF-A 会议 8 篇</li>
-<li>中科院一区 10 篇</li>
+<li>35 篇成果</li>
+<li>CCF-A 会议 11 篇</li>
+<li>中科院一区 12 篇</li>
 <li>Best Paper / Editor's Choice 各 1 篇</li>
-<li>ESI 高被引 2 篇</li>
+<li>ESI 高被引 3 篇 · 热点 1 篇</li>
 </ul>
 <p class="pub-hint">💡 点击论文标题可跳转 Google Scholar 检索全文；展开「BibTeX」可直接复制引用。<b>加粗</b>为本站作者，<sup>*</sup> 通讯作者，<sup>†</sup> 共同第一作者。</p>
+
+<h2 class="pub-year">2026</h2>
+<ol class="pub-list">
+<li class="pub-entry">
+<p class="pub-title"><a href="https://scholar.google.com/scholar?q=%22VecDesigner%3A+Exploring+Visual+Guidance+and+Structural+Consistency+for+Semantic+Typography%22">VecDesigner: Exploring Visual Guidance and Structural Consistency for Semantic Typography</a></p>
+<p class="pub-authors">Y. Liu, <b>X. Wu</b><sup>*</sup>, Z. Liu, J. Zhao 等</p>
+<p class="pub-venue"><i>International Conference on Machine Learning (ICML)</i>, 2026<span class="pub-badges"><span class="bd bd-id">通讯作者</span><span class="bd bd-top">CCF-A</span></span></p>
+<details class="pub-bib"><summary>BibTeX</summary>
+<pre>{% raw %}@inproceedings{liu2026vecdesigner,
+  author    = {Yu, Liu and Wu, Xingjiao and Liu, Ziang and Zhao, Jiabao and others},
+  title     = {VecDesigner: Exploring Visual Guidance and Structural Consistency for Semantic Typography},
+  booktitle = {International Conference on Machine Learning (ICML)},
+  year      = {2026}
+}{% endraw %}</pre>
+</details>
+</li>
+<li class="pub-entry">
+<p class="pub-title"><a href="https://scholar.google.com/scholar?q=%22Dynamic+Multimodal+Activation+Steering+for+Hallucination+Mitigation%22">Dynamic Multimodal Activation Steering for Hallucination Mitigation in Large Vision-Language Models</a></p>
+<p class="pub-authors">J. Yin, Q. Chen, K. Chen, J. Zhou, <b>X. Wu</b>, L. He</p>
+<p class="pub-venue"><i>International Conference on Learning Representations (ICLR)</i>, 2026<span class="pub-badges"><span class="bd bd-top">CCF-A</span></span></p>
+<details class="pub-bib"><summary>BibTeX</summary>
+<pre>{% raw %}@inproceedings{yin2026dynamic,
+  author    = {Yin, Jianghao and Chen, Qin and Chen, Kedi and Zhou, Jie and Wu, Xingjiao and He, Liang},
+  title     = {Dynamic Multimodal Activation Steering for Hallucination Mitigation in Large Vision-Language Models},
+  booktitle = {International Conference on Learning Representations (ICLR)},
+  year      = {2026}
+}{% endraw %}</pre>
+</details>
+</li>
+<li class="pub-entry">
+<p class="pub-title"><a href="https://scholar.google.com/scholar?q=%22APEX%3A+Learning+Adaptive+Priorities+for+Multi-Objective+Alignment%22">APEX: Learning Adaptive Priorities for Multi-Objective Alignment in Vision-Language Generation</a></p>
+<p class="pub-authors">D. Chen, X. Zhuang, J. Xu, L. Xie, Z. Wang 等, <b>X. Wu</b><sup>*</sup></p>
+<p class="pub-venue"><i>Findings of the Association for Computational Linguistics (ACL)</i>, 2026: 4922-4939<span class="pub-badges"><span class="bd bd-id">通讯作者</span><span class="bd bd-top">CCF-A · Findings</span></span></p>
+<details class="pub-bib"><summary>BibTeX</summary>
+<pre>{% raw %}@inproceedings{chen2026apex,
+  author    = {Chen, Dongliang and Zhuang, Xinlin and Xu, Junjie and Xie, Lei and Wang, Zhi and others and Wu, Xingjiao},
+  title     = {APEX: Learning Adaptive Priorities for Multi-Objective Alignment in Vision-Language Generation},
+  booktitle = {Findings of the Association for Computational Linguistics: ACL},
+  pages     = {4922--4939},
+  year      = {2026}
+}{% endraw %}</pre>
+</details>
+</li>
+<li class="pub-entry">
+<p class="pub-title"><a href="https://scholar.google.com/scholar?q=%22ACRA%3A+An+adaptive+chain+retrieval+architecture%22">ACRA: An adaptive chain retrieval architecture for multi-modal knowledge-augmented visual question answering</a></p>
+<p class="pub-authors">Z. Zhang, S. Yang, <b>X. Wu</b><sup>*</sup>, J. Zhao, Q. Chen, J. Yang, L. He</p>
+<p class="pub-venue"><i>Knowledge-Based Systems</i>, 2026, 334: 115136<span class="pub-badges"><span class="bd bd-id">通讯作者</span><span class="bd bd-top">中科院一区</span></span></p>
+<details class="pub-bib"><summary>BibTeX</summary>
+<pre>{% raw %}@article{zhang2026acra,
+  author  = {Zhang, Zihao and Yang, Shuwen and Wu, Xingjiao and Zhao, Jiabao and Chen, Qiqin and Yang, Jie and He, Liang},
+  title   = {ACRA: An adaptive chain retrieval architecture for multi-modal knowledge-augmented visual question answering},
+  journal = {Knowledge-Based Systems},
+  volume  = {334},
+  pages   = {115136},
+  year    = {2026}
+}{% endraw %}</pre>
+</details>
+</li>
+<li class="pub-entry">
+<p class="pub-title"><a href="https://scholar.google.com/scholar?q=%22Evidence-chain-driven+multimodal+retrieval+question+answering%22">Evidence-chain-driven multimodal retrieval question answering</a></p>
+<p class="pub-authors">S. Yang 等, <b>X. Wu</b><sup>*</sup></p>
+<p class="pub-venue"><i>Knowledge-Based Systems</i>, 2026<span class="pub-badges"><span class="bd bd-id">通讯作者</span><span class="bd bd-top">中科院一区</span></span></p>
+<details class="pub-bib"><summary>BibTeX</summary>
+<pre>{% raw %}@article{yang2026evidence,
+  author  = {Yang, Shuwen and others and Wu, Xingjiao},
+  title   = {Evidence-chain-driven multimodal retrieval question answering},
+  journal = {Knowledge-Based Systems},
+  note    = {DOI: 10.1016/j.knosys.2026.116358},
+  year    = {2026}
+}{% endraw %}</pre>
+</details>
+</li>
+</ol>
 
 <h2 class="pub-year">2025</h2>
 <ol class="pub-list">

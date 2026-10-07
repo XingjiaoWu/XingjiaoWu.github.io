@@ -6,7 +6,7 @@ on:
     paths: ['.github/workflows/google-scholar-stats.yml', 'google_scholar_crawler/**']
   workflow_dispatch:
   schedule:
-    - cron: '30 21 * * *'  # 每天 UTC 21:30（北京时间 05:30）
+    - cron: '30 21 * * *'  # 每天北京时间 05:30
 
 permissions:
   contents: write
@@ -14,6 +14,7 @@ permissions:
 jobs:
   stats:
     runs-on: ubuntu-latest
+    timeout-minutes: 8
     steps:
       - uses: actions/checkout@v4
 
@@ -22,42 +23,26 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install -r google_scholar_crawler/requirements.txt httpx
+        run: pip install -r google_scholar_crawler/requirements.txt
 
-      - name: Crawl Google Scholar (with retries)
+      - name: Fetch citation stats (Scholar first, OpenAlex fallback)
         env:
           GOOGLE_SCHOLAR_ID: BhA6vd0AAAAJ
-        run: |
-          set +e
-          for i in 1 2 3; do
-            echo "Attempt $i..."
-            python google_scholar_crawler/main.py 2>&1 | tee crawl.log && exit 0
-            sleep 90
-          done
-          echo "All attempts failed; keeping previous stats."
-          exit 1
-
-      - name: Save crawl log (always)
-        if: always()
-        run: |
-          mkdir -p google-scholar-stats
-          cp crawl.log google-scholar-stats/ 2>/dev/null || echo "no log" > google-scholar-stats/crawl.log
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add google-scholar-stats/crawl.log
-          git diff --cached --quiet || (git commit -m "chore: crawl log [skip ci]" && git push) || true
+          ORCID: 0000-0001-9146-051X
+        run: python google_scholar_crawler/main.py
 
       - name: Commit updated stats
         run: |
           mkdir -p google-scholar-stats
           cp results/gs_data_shieldsio.json google-scholar-stats/
-          cp results/gs_data.json google-scholar-stats/ || true
+          cp results/gs_data.json google-scholar-stats/
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add google-scholar-stats
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "chore: update Google Scholar stats [skip ci]"
+            git commit -m "chore: update citation stats [skip ci]"
+            git pull --rebase origin master || true
             git push
           fi

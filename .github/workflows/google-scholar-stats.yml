@@ -3,7 +3,7 @@ name: Google Scholar Stats
 on:
   push:
     branches: [master]
-    paths: ['.github/workflows/google-scholar-stats.yml']
+    paths: ['.github/workflows/google-scholar-stats.yml', 'google_scholar_crawler/**']
   workflow_dispatch:
   schedule:
     - cron: '30 21 * * *'  # 每天 UTC 21:30（北京时间 05:30）

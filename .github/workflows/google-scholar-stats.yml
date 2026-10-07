@@ -22,7 +22,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install -r google_scholar_crawler/requirements.txt
+        run: pip install -r google_scholar_crawler/requirements.txt httpx
 
       - name: Crawl Google Scholar (with retries)
         env:
@@ -31,11 +31,21 @@ jobs:
           set +e
           for i in 1 2 3; do
             echo "Attempt $i..."
-            python google_scholar_crawler/main.py && exit 0
+            python google_scholar_crawler/main.py 2>&1 | tee crawl.log && exit 0
             sleep 90
           done
           echo "All attempts failed; keeping previous stats."
           exit 1
+
+      - name: Save crawl log (always)
+        if: always()
+        run: |
+          mkdir -p google-scholar-stats
+          cp crawl.log google-scholar-stats/ 2>/dev/null || echo "no log" > google-scholar-stats/crawl.log
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add google-scholar-stats/crawl.log
+          git diff --cached --quiet || (git commit -m "chore: crawl log [skip ci]" && git push) || true
 
       - name: Commit updated stats
         run: |
